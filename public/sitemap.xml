@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://peian-chen.github.io/showcase/</loc>
+    <loc>http://localhost:1313/peian-chen/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peian-chen.github.io/</loc>
+    <loc>http://localhost:1313/peian-chen/showcase/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peian-chen.github.io/about/</loc>
+    <loc>http://localhost:1313/peian-chen/about/</loc>
   </url><url>
-    <loc>https://peian-chen.github.io/posts/hello/</loc>
+    <loc>http://localhost:1313/peian-chen/posts/hello/</loc>
   </url><url>
-    <loc>https://peian-chen.github.io/categories/</loc>
+    <loc>http://localhost:1313/peian-chen/categories/</loc>
   </url><url>
-    <loc>https://peian-chen.github.io/posts/</loc>
+    <loc>http://localhost:1313/peian-chen/posts/</loc>
   </url><url>
-    <loc>https://peian-chen.github.io/tags/</loc>
+    <loc>http://localhost:1313/peian-chen/tags/</loc>
   </url>
 </urlset>
