@@ -147,7 +147,7 @@ draft: false
            <strong class="skill-class"><i class="fa-solid fa-circle"></i> 邊緣AI與訊號處理：</strong><br>
             
  <div class="skill-item">
-                <div class="skill-tag" style="cursor: pointer;" onclick="location.href='#display'">
+                <div class="skill-tag">
                     <i class="fa-solid fa-seedling skill-icon"></i>
                     <div class="skill-info">
                         <span class="skill-name">TinyML</span>
@@ -199,7 +199,7 @@ draft: false
            <strong class="skill-class"><i class="fa-solid fa-circle"></i> 演算法與資料結構：</strong><br>
             
  <div class="skill-item">
-                <div class="skill-tag" style="cursor: pointer;" onclick="location.href='#display'">
+                <div class="skill-tag">
                     <i class="fa-solid fa-sitemap skill-icon"></i>
                     <div class="skill-info">
                         <span class="skill-name">資料結構</span>
@@ -223,7 +223,7 @@ draft: false
            <strong class="skill-class"><i class="fa-solid fa-circle"></i> FPGA / 數位電路設計：</strong><br>
             
  <div class="skill-item">
-                <div class="skill-tag" style="cursor: pointer;" onclick="location.href='#display'">
+                <div class="skill-tag">
                     <i class="fa-solid fa-file-code skill-icon"></i>
                     <div class="skill-info">
                         <span class="skill-name">Verilog</span>
@@ -257,7 +257,7 @@ draft: false
            <strong class="skill-class"><i class="fa-solid fa-circle"></i> 硬體與系統整合：</strong><br>
             
  <div class="skill-item">
-                <div class="skill-tag" style="cursor: pointer;" onclick="location.href='#display'">
+                <div class="skill-tag">
                     <i class="fa-solid fa-plug skill-icon"></i>
                     <div class="skill-info">
                         <span class="skill-name">感測器介⾯設計</span>
@@ -291,7 +291,7 @@ draft: false
            <strong class="skill-class"><i class="fa-solid fa-circle"></i> ⼯程設計：</strong><br>
             
  <div class="skill-item">
-                <div class="skill-tag" style="cursor: pointer;" onclick="location.href='#display'">
+                <div class="skill-tag">
                     <i class="fa-solid fa-compass-drafting skill-icon"></i>
                     <div class="skill-info">
                         <span class="skill-name">機構與CAD設計</span>
@@ -314,7 +314,7 @@ draft: false
            <strong class="skill-class"><i class="fa-solid fa-circle"></i> 語言：</strong><br>
             
  <div class="skill-item">
-                <div class="skill-tag" style="cursor: pointer;" onclick="location.href='#display'">
+                <div class="skill-tag">
                     <i class="fa-solid fa-language skill-icon"></i>
                     <div class="skill-info">
                         <span class="skill-name">中文</span>
@@ -349,13 +349,11 @@ draft: false
 <h1 id="experience" class="title"><i class="fa-solid fa-briefcase"> 經歷</h1></i> 
 <div class="custom-section">
 <div class="exp-part">   
-<div class="exp-card first-card">
+<div class="exp-card first-card" year="2024">
         <div class="exp-dot" style="opacity: 0;"></div>
         <div class="exp-content">
-        <strong style="font-size:20px;">2024</strong>
-        <h4 style="margin: 5px 0;font-size:18px;">研究所 </h4>
-        <h4 style="margin: 5px 0; font-size:16px;">
-        巴拉巴拉</h4>
+        <div class="year">
+        <strong >2024</strong><h4 style="margin: 5px 0; font-size:18px;">研究所</h4></div>
         <div class="exp-text">
         <div class="exp-box"><strong style="font-size: 16px; ">美國消費性電子展CES ✕ TTA 臺灣科技新創館</strong> <div class="rank">參展</div></div>
                 </div></div>
@@ -364,7 +362,7 @@ draft: false
 <div class="exp-card">
         <div class="exp-dot" ></div>
         <div class="exp-content">
-        <strong style="font-size:20px;">2023</strong>
+        <strong class="year">2023</strong>
         <h4 style="margin: 5px 0; font-size:18px;">研究所</h4>
         <h4 style="margin: 5px 0; font-size:16px;">巴拉巴拉</h4>
         <div class="exp-text">
@@ -375,7 +373,7 @@ draft: false
 <div class="exp-card">
         <div class="exp-dot" ></div>
         <div class="exp-content">
-        <strong style="font-size:20px;">2021</strong>
+        <strong class="year">2021</strong>
         <h4 style="margin: 5px 0; font-size:18px;">研究所</h4>
         <h4 style="margin: 5px 0; font-size:16px;">巴拉巴拉</h4>
         <div class="exp-text">
@@ -385,7 +383,7 @@ draft: false
 <div class="exp-card">
         <div class="exp-dot" ></div>
         <div class="exp-content">
-        <strong style="font-size:20px;">2019</strong>
+        <strong class="year">2019</strong>
         <h4 style="margin: 5px 0; font-size:18px;">大學</h4>
         <h4 style="margin: 5px 0; font-size:16px;">巴拉巴拉</h4>
         <div class="exp-text">
@@ -400,7 +398,7 @@ draft: false
 <div class="exp-card">
         <div class="exp-dot" ></div>
         <div class="exp-content">
-        <strong style="font-size:20px;">2018</strong>
+        <strong class="year">2018</strong>
         <h4 style="margin: 5px 0; font-size:18px;">大學</h4>
         <h4 style="margin: 5px 0; font-size:16px;">巴拉巴拉</h4>
         <div class="exp-text">
@@ -411,7 +409,7 @@ draft: false
 <div class="exp-card">
         <div class="exp-dot" ></div>
         <div class="exp-content">
-        <strong style="font-size:20px;">2017</strong>
+        <strong class="year">2017</strong>
         <h4 style="margin: 5px 0; font-size:18px;">大學</h4>
         <h4 style="margin: 5px 0; font-size:16px;">巴拉巴拉</h4>
         <div class="exp-text">
